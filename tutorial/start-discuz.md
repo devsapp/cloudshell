@@ -1,6 +1,6 @@
-# 快速体验start-zblog
+# 快速体验start-discuz
 
-欢迎您使用Serverless Devs开发者工具进行项目开发，本实验是基于Serverless Devs部署start-zblog案例到阿里云函数计算。
+欢迎您使用Serverless Devs开发者工具进行项目开发，本实验是基于Serverless Devs部署start-discuz案例到阿里云函数计算。
 
 整个实验过程包括：
 - 下载工具
@@ -8,7 +8,7 @@
 - 初始化项目
 - 部署项目
 
-> start-zblog案例仓库地址：https://github.com/devsapp/start-zblog
+> start-discuz案例仓库地址：https://github.com/devsapp/start-discuz
 
 ## 下载工具
 
@@ -37,14 +37,14 @@ npm install -g @serverless-devs/s
 进行项目初始化：
 
 ```
-s init devsapp/start-zblog
+s init devsapp/start-discuz
 ```
 
-并按照引导进行项目名称的输入，例如此时输入项目名称`start-zblog`
+并按照引导进行项目名称的输入，例如此时输入项目名称`start-discuz`
 
 ## 部署项目
 
-根据上一步输入的项目名称，进入到项目，例如上一步输入的项目名称是`start-zblog`，此时则可以`cd start-zblog`
+根据上一步输入的项目名称，进入到项目，例如上一步输入的项目名称是`start-discuz`，此时则可以`cd start-discuz`
 
 执行部署指令`s deploy`，稍等片刻，即可完成项目的部署
 
